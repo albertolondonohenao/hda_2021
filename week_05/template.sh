@@ -32,7 +32,7 @@ echo ${maindir}
 ## Calculate 30-year (climatologic) mean of the point #6. (create separate file per region). Use cdo runmean,30 … 
 
 ## 08
-## Calculate relative change between 1920-1949 and 1991-2020 with respect to 1920-1949 and plot time series (into a single figure for all three regions). Add legend.
+## Calculate relative change between 1920-1949 and 1990-2019 with respect to 1920-1949 and plot time series (into a single figure for all three regions). Add legend.
 
 
 exit
